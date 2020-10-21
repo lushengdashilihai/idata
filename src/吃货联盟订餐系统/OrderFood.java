@@ -240,6 +240,8 @@ public class OrderFood {
             }
         } while (num == 0);
         System.out.println("谢谢使用,欢迎下次光临!");
+        sc.close();
 
     }
 }
+
